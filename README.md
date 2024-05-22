@@ -1,1 +1,2 @@
 # kernel-for-bug-bounty
+This is either the best I have done so far or the most stupid thing. This was my final year project. I customized the linux kernel for bug bounty to my best knowledge. This was my first time customizing the kernel so I am sure I must have some mistake(s) in it. The compressed kernel file and the config are in the MASTER BRANCH. Somehow, I could not push them to the main branch. I would really appreciate it if you could test/check it and give your valuable feedback. Thank You.
